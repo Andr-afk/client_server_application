@@ -1,0 +1,7 @@
+C:\Users\ANDREY\Desktop\funny_sheet\CS\serverNetwork\serverNetwork\bin\Debug\serverNetwork.exe.config
+C:\Users\ANDREY\Desktop\funny_sheet\CS\serverNetwork\serverNetwork\bin\Debug\serverNetwork.exe
+C:\Users\ANDREY\Desktop\funny_sheet\CS\serverNetwork\serverNetwork\bin\Debug\serverNetwork.pdb
+C:\Users\ANDREY\Desktop\funny_sheet\CS\serverNetwork\serverNetwork\obj\Debug\serverNetwork.csprojAssemblyReference.cache
+C:\Users\ANDREY\Desktop\funny_sheet\CS\serverNetwork\serverNetwork\obj\Debug\serverNetwork.csproj.CoreCompileInputs.cache
+C:\Users\ANDREY\Desktop\funny_sheet\CS\serverNetwork\serverNetwork\obj\Debug\serverNetwork.exe
+C:\Users\ANDREY\Desktop\funny_sheet\CS\serverNetwork\serverNetwork\obj\Debug\serverNetwork.pdb
